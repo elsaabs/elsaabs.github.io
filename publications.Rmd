@@ -1,0 +1,19 @@
+---
+title: "Publications"
+output: html_document
+---
+
+[<img src="icons8-google-scholar.png">]https://scholar.google.com/citations?user=WUQjPxEAAAAJ&hl=en) 
+
+- **Abs, E.**, Hough, M. (2023). The world of underground ecology in a changing environment. Elementa: Science of the Anthropocene, 11(1). https://doi.org/10.1525/elementa.2022.00139
+
+- **Abs, E.**, Chase, A.B., Allison S.D. (2022). Burning Questions: How do soil microbes shape ecosystem biogeochemistry in the context of global change? Environmental Microbiology. https://doi.org/10.1111/1462-2920.16331
+
+- Defrenne, C.E., **Abs, E.**, Longhi Cordeiro, A., Dietterich, L., Hough, M., Jones, J.M., Kivlin, S.N., Chen, W., Cusack, D., Franco, A.L., Khasanova, A., Stover, D., Romero-Olivares, A.L. (2021). The Ecology Underground coalition: building a collaborative future of belowground ecology and ecologists. New Phytologist.
+https://doi.org/10.1111/nph.17163
+
+- **Abs, E.**, Leman, H., Ferriere, R. (2020). A multi-scale eco-evolutionary model of cooperation reveals how microbial adaptation influences soil decomposition. Communications Biology, 3(1). https://doi.org/10.1038/s42003-020-01198-4
+
+- **Abs, E.**, Ferriere, R. (2020). Modeling Microbial Dynamics and Heterotrophic Soil Respiration: Effect of Climate Change. American Geophysical Union, 103-129. https://doi.org/10.1002/9781119413332.ch5
+
+- Balazano, S., **Abs, E.**, Leterme, S.C. (2015). Protist diversity along a salinity gradient in a coastal lagoon. Aquatic Microbial Ecology, 74(3). https://doi.org/10.3354/ame01740
