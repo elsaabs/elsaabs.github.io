@@ -3,7 +3,6 @@ title: "Publications"
 output: html_document
 ---
 
-[<img src="icons8-google-scholar.png">]https://scholar.google.com/citations?user=WUQjPxEAAAAJ&hl=en) 
 
 - **Abs, E.**, Hough, M. (2023). The world of underground ecology in a changing environment. Elementa: Science of the Anthropocene, 11(1). https://doi.org/10.1525/elementa.2022.00139
 

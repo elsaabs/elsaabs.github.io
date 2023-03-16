@@ -14,4 +14,4 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: flatly
+    theme: minima
