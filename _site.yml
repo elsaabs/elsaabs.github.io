@@ -12,6 +12,6 @@ navbar:
       href: teach_out.html
     - text: "Contact me"
       href: about.html
-output:
-  html_document:
-    theme: minima
+# output:
+#   html_document:
+#     theme: minima
